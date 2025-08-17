@@ -39,7 +39,7 @@
 
             Description: A personal portfolio website highlighting my skills and projects, recently updated with a modern design.
 
-            Link: Visit Portfolio
+            Link: Visit Portfolio https://my-portfolio-kappa-five-34.vercel.app/
 
             Image:
                 
@@ -47,7 +47,7 @@
 
             Description: A smart collaboration platform for IIT batch projects and learning, updated with enhanced real-time features and improved UI.
 
-           Link: Visit IITCohort
+           Link: Visit IITCohort  https://iitcohort.vercel.app/
 
             Image:
 
@@ -55,7 +55,7 @@
 
            Description: A premium AI experience platform with elegant conversation features, now including advanced AI dialogue options and new customization settings.
 
-           Link: Visit Royal Studio
+           Link: Visit Royal Studio  https://royalainew.vercel.app/
 
           Image: 
 
