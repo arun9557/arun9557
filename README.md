@@ -43,7 +43,6 @@
 
             Image:
                 
-
       2. IITCohort
 
             Description: A smart collaboration platform for IIT batch projects and learning, updated with enhanced real-time features and improved UI.
@@ -58,7 +57,7 @@
 
            Link: Visit Royal Studio
 
-          Image:
+          Image: 
 
 
 
