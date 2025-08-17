@@ -31,22 +31,44 @@
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
+│  
+
+  My Projects
+      
+      1. Portfolio
+
+            Description: A personal portfolio website highlighting my skills and projects, recently updated with a modern design.
+
+            Link: Visit Portfolio
+
+            Image:
+                
+
+      2. IITCohort
+
+            Description: A smart collaboration platform for IIT batch projects and learning, updated with enhanced real-time features and improved UI.
+
+           Link: Visit IITCohort
+
+            Image:
 
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  🚀 CURRENT PROJECTS                                                         │
-│  • 3D Portfolio with React & Framer Motion                                   │
-│  • Learning JavaScript, Java, and Cybersecurity                              │
-│  • Open source contributions                                                 │
-│                                                                              │
-│  🌐 CONNECT                                                                  │
-│  • GitHub:    https://github.com/arun9557                                    │
-│  • LinkedIn:  https://linkedin.com/in/arun-shekar-209483364                  │
-│  • Twitter:   https://twitter.com/ArunShekha_                                │
-│  • Email:     arunshekharcs@gmail.com                                        │
-│  • Portfolio: https://arun9557.github.io/                                    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+      3. Royal Studio
+
+           Description: A premium AI experience platform with elegant conversation features, now including advanced AI dialogue options and new customization settings.
+
+           Link: Visit Royal Studio
+
+          Image:
+
+
+
+
+
+
+
+
+
+
+
+
