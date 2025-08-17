@@ -52,7 +52,6 @@
 
             Image:
 
-
       3. Royal Studio
 
            Description: A premium AI experience platform with elegant conversation features, now including advanced AI dialogue options and new customization settings.
