@@ -41,7 +41,7 @@
 
             Link: Visit Portfolio https://my-portfolio-kappa-five-34.vercel.app/
 
-            Image:
+            Image: -
                 
       2. IITCohort
 
@@ -49,7 +49,7 @@
 
            Link: Visit IITCohort  https://iitcohort.vercel.app/
 
-            Image:
+            Image: -
 
       3. Royal Studio
 
@@ -57,7 +57,7 @@
 
            Link: Visit Royal Studio  https://royalainew.vercel.app/
 
-          Image: 
+          Image: -
 
 
 
