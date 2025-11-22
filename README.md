@@ -22,42 +22,7 @@
 </p>
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  🔹 @ IIT Jodhpur                                                            │
-│  🔹 Web Developer | Ethical Hacking Enthusiast                               │
-│  🔹 Building innovative projects                                             │
-│  🔹 Passionate about open source and cybersecurity                           │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-│  
 
-  My Projects
-      
-      1. Portfolio
-
-            Description: A personal portfolio website highlighting my skills and projects, recently updated with a modern design.
-
-            Link: Visit Portfolio https://my-portfolio-kappa-five-34.vercel.app/
-
-            Image: -
-                
-      2. IITCohort
-
-            Description: A smart collaboration platform for IIT batch projects and learning, updated with enhanced real-time features and improved UI.
-
-           Link: Visit IITCohort  https://iitcohort.vercel.app/
-
-            Image: -
-
-      3. Royal Studio
-
-           Description: A premium AI experience platform with elegant conversation features, now including advanced AI dialogue options and new customization settings.
-
-           Link: Visit Royal Studio  https://royalainew.vercel.app/
-
-          Image: -
 
 
 
