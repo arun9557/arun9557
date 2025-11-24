@@ -20,5 +20,3 @@
   <a href="https://github.com/sponsors/arun9557"><img src="https://img.shields.io/github/sponsors/arun9557?color=00ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
   <a href="https://github.com/arun9557"><img src="https://img.shields.io/github/followers/arun9557?color=00ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 </p>
-
-```
