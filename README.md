@@ -3,7 +3,7 @@
 - Expectations high
 - Reality unknown
 - Sleep schedule broken
-  But wait, wait
+#### But wait, wait
   
 ![2026DunyaKhatamGIF](https://github.com/user-attachments/assets/b139ca45-0f03-4cc1-8f74-96d7d74b2d6c)
 <p align="center">
