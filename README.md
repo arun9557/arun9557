@@ -1,3 +1,10 @@
+# ⏳ 2026 Loading...
+⚠️ System warning:
+- Expectations high
+- Reality unknown
+- Sleep schedule broken
+  But wait, wait
+![2026DunyaKhatamGIF](https://github.com/user-attachments/assets/b139ca45-0f03-4cc1-8f74-96d7d74b2d6c)
 <p align="center">
   <img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif">
 </p>
