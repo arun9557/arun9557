@@ -6,4 +6,5 @@
   <a href="https://arunshekhar.me/"><img src="https://img.shields.io/twitter/follow/ArunShekha_?color=0ff00&label=@ArunShekha_&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
   <a href="https://github.com/sponsors/arun9557"><img src="https://img.shields.io/github/sponsors/arun9557?color=00ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
   <a href="https://github.com/arun9557"><img src="https://img.shields.io/github/followers/arun9557?color=00ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
+  <a href="https://arunshekhar.me/blog"><img src="https://www.shutterstock.com/image-vector/write-blog-post-icon-blogging-600nw-2417074323.jpg"></a>
 </p>
